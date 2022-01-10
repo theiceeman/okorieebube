@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, I'm Ebube 👋
+
+I'm a `Blockchain Developer` building on the Ethereum Blockchain and its derivatives like BSC, Polygon...
+
+#### 🔭 Some Blockchain Technologies i've worked with, include:
+ -  Solidity
+ -  EVM
+ -  Chainlink VRF, Keepers, Oracles
+ -  Hardhat
+ -  Truffle
+ -  Ganache
+ -  Ethers.js
+ -  Web3.js
+
+#### 🌱 Smart Contracts i've written on the EVM include:
+* [Staking contract with unlocking features based on different levels](https://github.com/abhi3700/evm_contracts_staking)
 
 
-**okorieebube/okorieebube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
