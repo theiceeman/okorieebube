@@ -26,4 +26,4 @@ I'm a `Blockchain Developer` building on the Ethereum Blockchain and its derivat
 * [Upgradeable, Pausable contracts](https://github.com/okorieebube/theia-protocol-challenge)
 
 
-_Last updated: 1/10/2022_
+`Last updated: 1/10/2022`
