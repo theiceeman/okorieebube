@@ -1,21 +1,20 @@
 ## Hi, I'm Ebube 👋
 
-I'm a `Blockchain Developer` building on the Ethereum Blockchain and its derivatives like BSC, Polygon...
+I'm also a `Blockchain Developer`.
+Blockchains i've worked with currently include: Ethereum, BSC, Polygon, Tron...
 
 #### 🔭 Some Blockchain Technologies i've worked with, include:
  -  Solidity
- -  EVM
- -  Chainlink VRF, Keepers, Oracles
- -  Hardhat
- -  Truffle
- -  Ganache
- -  Ethers.js
- -  Web3.js
- -  Thirdweb
- -  Alchemy
- -  Moralis
+ -  EVM, TVM
+ -  Chainlink VRF, Keepers, Oracle
+ -  Hardhat, Truffle, Ganache
+ -  Tronbox, Tronweb.Js
+ -  Ethers.js, Web3.js
+ -  Alchemy, Shasta
+ -  Moralis, Tenderly, TheGraph
 
-#### 🌱 Smart Contract projects i've built on the EVM include:
+#### 🌱 Smart Contract projects i've built include:
+* Microservices Architecture for an on-chain wallet sdk
 * [Vesting contracts for ERC20 tokens](https://github.com/okorieebube/token-ico-v3/blob/main/contracts/TokenTimeLock.sol)
 * [Crowdsale contract for purchasing tokens](https://github.com/okorieebube/token-ico-v3/blob/main/contracts/LinkTokenCrowdsale.sol)
 * [A DAO for creating and voting on proposals created by DAO members](https://github.com/okorieebube/mars-dao)
@@ -26,4 +25,4 @@ I'm a `Blockchain Developer` building on the Ethereum Blockchain and its derivat
 * [Upgradeable, Pausable contracts](https://github.com/okorieebube/theia-protocol-challenge)
 
 
-`Last updated: 1/10/2022`
+`Last updated: 19 June, 2022`
