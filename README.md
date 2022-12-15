@@ -1,7 +1,7 @@
 ## Hi, I'm Ebube 👋
 
 I'm also a `Blockchain Developer`.<br/>
-Layer1 Blockchain's i've worked with currently include: Ethereum, Tron, BSC...
+Layer1 Blockchain's i've worked with currently include: Ethereum, Tron, BSC, Near, Hedera Hashgraph...
 
 #### 🔭 Some Blockchain Technologies i've worked with, include:
  -  Solidity
